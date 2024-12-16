@@ -1,0 +1,13 @@
+{
+   "@@locale": "en",
+   "app_name": "Lumos",
+   "refresh": "Refresh",
+   "welcome": "Welcome!",
+   "get_started_text": "Let's get started by connecting to a Wi-Fi:",
+   "connect_to_wifi": "Connect to a Wi-Fi network",
+   "try_to_connect_text": "The device is attempting to connect to:",
+   "enter_your_password_text": "Please enter your password for the network here:",
+   "password": "Password",
+   "connect": "Connect"
+  
+}

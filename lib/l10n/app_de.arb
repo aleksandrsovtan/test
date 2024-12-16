@@ -1,0 +1,15 @@
+{
+   "@@locale": "de",
+   "app_name": "Lumos",
+   "refresh": "Neu Laden",
+   "welcome": "Willkommen!",
+   "get_started_text": "Lass uns beginnen indem wir uns mit einem WLAN verbinden.",
+   "connect_to_wifi": "Mit einem WLAN verbinden",
+   "try_to_connect_text": "Das Gerät versucht sich mit zu verbinden mit:",
+   "enter_your_password_text": "Bitte gib dein Passwort für das Netzwerk hier ein:",
+   "password": "Passwort",
+   "connect": "Verbinden"
+
+     
+}
+ 
